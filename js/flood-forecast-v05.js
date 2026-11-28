@@ -37,7 +37,7 @@
       latitude: String(basin.latitude),
       longitude: String(basin.longitude),
       hourly: "precipitation,soil_moisture_0_to_7cm",
-      forecast_days: "3",
+      forecast_days: "4",
       past_hours: "0",
       timezone: "Europe/Athens"
     });
